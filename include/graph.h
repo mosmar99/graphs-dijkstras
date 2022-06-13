@@ -20,7 +20,7 @@ struct adjListNode
 struct adjList {
     struct adjListNode* head;
 };
-
+//test
 // declare a structure to represent a graph. 
 // N is the number of nodes in graph.
 // A graph is an array of adjacency lists.
